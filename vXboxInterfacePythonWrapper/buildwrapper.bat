@@ -1,0 +1,2 @@
+swigwin-4.0.2\swig.exe -python vXboxInterface.i
+cl /LD vXboxInterface_wrap.c /o _vXboxInterface.pyd -IC:\Users\Administrator\AppData\Local\Programs\Python\Python310\include C:\Users\Administrator\AppData\Local\Programs\Python\Python310\libs\python310.lib C:\Users\Administrator\Desktop\vxbox\vXboxInterface-master\x64\Debug/vXboxInterface.lib
